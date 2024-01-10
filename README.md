@@ -1,4 +1,10 @@
-### Hi there 👋
+### About Me 😊
+
+- Dedicated to Work & Eager to Learn.
+- In Love with Math, Number, Data and Nature.
+
+### Tools
+
 
 <!--
 **dthcong/dthcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
