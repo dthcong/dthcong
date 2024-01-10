@@ -1,4 +1,4 @@
-![Thanh Cong Banner 1](https://github.com/dthcong/dthcong/assets/156085700/673fa7ff-eae1-4975-874c-d569bf9a8495)
+![Thanh Cong Banner 2](https://github.com/dthcong/dthcong/assets/156085700/689bf6bb-ba0c-4142-ae69-8e5d0a14022a)
 
 ---
 
