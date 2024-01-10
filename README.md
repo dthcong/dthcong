@@ -1,4 +1,4 @@
-![Banner](https://i.pinimg.com/originals/b0/23/51/b02351aef14999e271ea2497325d4e7e.jpg)
+![Thanh Cong Banner 1](https://github.com/dthcong/dthcong/assets/156085700/673fa7ff-eae1-4975-874c-d569bf9a8495)
 
 ---
 
