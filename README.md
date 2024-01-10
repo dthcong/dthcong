@@ -1,3 +1,7 @@
+![Banner](https://i.pinimg.com/originals/b0/23/51/b02351aef14999e271ea2497325d4e7e.jpg)
+
+---
+
 ### 😊 About Me
 
 - Dedicated to Work & Eager to Learn.
