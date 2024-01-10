@@ -1,9 +1,9 @@
-### About Me 😊
+### 😊 About Me
 
 - Dedicated to Work & Eager to Learn.
 - In Love with Math, Number, Data and Nature.
 
-### Tools 🛠️
+### 🛠️ Tool
 
 <code><img src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" width="4%"/></code>
 <code><img src="https://th.bing.com/th/id/R.3a646f7af36c19f92453a872e1a6a329?rik=NGLnMz%2bk6faQkw&riu=http%3a%2f%2fit.miami.edu%2f_assets%2fimages%2fO365_Power_BI.png&ehk=HBpjA2cY61UDu8947P%2f2Gm%2fB0yMsGkb7ZeS3AFO5hBs%3d&risl=&pid=ImgRaw&r=0" width="4%"/></code>
@@ -18,19 +18,17 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" width="4%"/></code>
 
+### 👨‍💼 My Skill
 
+- Data Crawling.
+- Data Cleaning.
+- Data Analysis.
+- Machine Learning.
+- Data Visualization.
 
-<!--
-**dthcong/dthcong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 Personal Project
 
-Here are some ideas to get you started:
+- "Credit Scorecard Modeling with Logistic Regression & WOE".
+- "Corporation Evaluation & Segmentation by Clustering Algorithm using Financial Reports & Market Data"
+- "Customer Segmentation by RFMB Method for Bank".
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
