@@ -3,10 +3,12 @@
 ---
 
 ## 😊 About Me
+
 - Dedicated to Work & Eager to Learn.
 - In Love with Math, Number, Data and Nature.
 
 ## 🛠️ Tool
+
 <code><img src="https://www.shareicon.net/data/2016/06/24/618244_excel_2000x2000.png" width="4%"/></code>
 <code><img src="https://th.bing.com/th/id/R.3a646f7af36c19f92453a872e1a6a329?rik=NGLnMz%2bk6faQkw&riu=http%3a%2f%2fit.miami.edu%2f_assets%2fimages%2fO365_Power_BI.png&ehk=HBpjA2cY61UDu8947P%2f2Gm%2fB0yMsGkb7ZeS3AFO5hBs%3d&risl=&pid=ImgRaw&r=0" width="4%"/></code>
 
@@ -21,6 +23,7 @@
 <code><img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" width="4%"/></code>
 
 ## 👨‍💼 My Skill
+
 - Data Crawling.
 - Data Cleaning.
 - Data Analysis.
@@ -28,14 +31,15 @@
 - Data Visualization.
 
 ## 📚 Personal Project
+
 <a href="https://github.com/dthcong/Credit-Scorecard-Modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Credit-Scorecard-Modeling" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=27&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Credit-Scorecard-Modeling" />
 </a>
 
 <a href="https://github.com/dthcong/HOSE-Listed-Company-Segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=HOSE-Listed-Company-Segmentation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HOSE-Listed-Company-Segmentation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=HOSE-Listed-Company-Segmentation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="HOSE-Listed-Company-Segmentation" />
 </a>
 
 <a href="https://github.com/dthcong/Customer-Segmentation-by-RFMB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-by-RFMB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer-Segmentation-by-RFMB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-by-RFMB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Customer-Segmentation-by-RFMB" />
 </a>
