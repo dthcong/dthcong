@@ -28,7 +28,14 @@
 - Data Visualization.
 
 ## 📚 Personal Project
-- "Credit Scorecard Modeling with Logistic Regression & WOE".
-- "Corporation Evaluation & Segmentation by Clustering Algorithm using Financial Reports & Market Data"
-- "Customer Segmentation by RFMB Method for Bank".
+<a href="https://github.com/dthcong/Credit-Scorecard-Modeling">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Credit-Scorecard-Modeling" />
+</a>
 
+<a href="https://github.com/dthcong/HOSE-Listed-Company-Segmentation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=HOSE-Listed-Company-Segmentation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="HOSE-Listed-Company-Segmentation" />
+</a>
+
+<a href="https://github.com/dthcong/Customer-Segmentation-by-RFMB">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-by-RFMB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Customer-Segmentation-by-RFMB" />
+</a>
