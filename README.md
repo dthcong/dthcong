@@ -30,7 +30,7 @@
 - Machine Learning.
 - Data Visualization.
 
-## 📚 Personal Project
+## 📚 Highlight Project
 
 <a href="https://github.com/dthcong/Credit-Scorecard-Modeling">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=23&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Credit-Scorecard-Modeling" />
@@ -44,3 +44,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-by-RFMB&show_icons=true&line_height=23&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Customer-Segmentation-by-RFMB" />
 </a>
 
+## 🌏Let's Connect
+📧 thconq.cc@gmail.com
