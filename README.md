@@ -15,11 +15,11 @@
 <code><img width="40" src="https://github.com/marwin1991/profile-technology-icons/assets/19180175/3b371807-db7c-45b4-8720-c0cfc901680a" alt="MSSQL" title="MSSQL"/></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"></code>
 <code><img width="40" src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="Selenium" title="Selenium"/></code>
 <code><img src="https://courses.spatialthoughts.com/images/python_foundation/pandas-logo.png" width="4%"/></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
+<code><img width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png"></code>
 <code><img src="https://www.programsbuzz.com/sites/default/files/logo/seaborn-logo.png" width="4%"/></code>
 
 ## 👨‍💼 My Skill
@@ -33,13 +33,13 @@
 ## 📚 Personal Project
 
 <a href="https://github.com/dthcong/Credit-Scorecard-Modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=26.9&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Credit-Scorecard-Modeling" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=25&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Credit-Scorecard-Modeling" />
 </a>
 
 <a href="https://github.com/dthcong/HOSE-Listed-Company-Segmentation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=HOSE-Listed-Company-Segmentation&show_icons=true&line_height=27&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="HOSE-Listed-Company-Segmentation" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=HOSE-Listed-Company-Segmentation&show_icons=true&line_height=25&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="HOSE-Listed-Company-Segmentation" />
 </a>
 
 <a href="https://github.com/dthcong/Customer-Segmentation-by-RFMB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-by-RFMB&show_icons=true&line_height=27&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Customer-Segmentation-by-RFMB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-by-RFMB&show_icons=true&line_height=25&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Customer-Segmentation-by-RFMB" />
 </a>
