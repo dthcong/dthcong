@@ -32,16 +32,16 @@
 
 ## 📚 Highlight Project
 
-<a href="https://github.com/dthcong/Credit-Scorecard-Modeling">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Credit-Scorecard-Modeling&show_icons=true&line_height=23.1&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Credit-Scorecard-Modeling" />
-</a>
-
 <a href="https://github.com/dthcong/HOSE-Company-Segmentation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=HOSE-Company-Segmentation&show_icons=true&line_height=23&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="HOSE-Company-Segmentation" />
 </a>
 
 <a href="https://github.com/dthcong/Customer-Segmentation-RFMB">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Segmentation-RFMB&show_icons=true&line_height=23&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Customer-Segmentation-RFMB" />
+</a>
+
+<a href="https://github.com/dthcong/Customer-Churn-Prediction">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dthcong&repo=Customer-Churn-Prediction&show_icons=true&line_height=23.1&title_color=6aa6f8&text_color=e7e9ea&icon_color=6aa6f8&bg_color=434c5a" alt="Customer-Churn-Prediction" />
 </a>
 
 ## 🌏Let's Connect
